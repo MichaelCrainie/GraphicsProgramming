@@ -1,0 +1,14 @@
+﻿  Audio.cpp
+  Display.cpp
+  main.cpp
+  MainGame.cpp
+  Mesh.cpp
+  obj_loader.cpp
+C:\Users\micha\Documents\GitHub\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\Lab7\Lab1\Mesh.cpp(62,9): warning C4930:  'Sphere meshSphere(void)': prototyped function not called (was a variable definition intended?)
+  Overlay.cpp
+  Shader.cpp
+  Texture.cpp
+  Generating Code...
+C:\Users\micha\Documents\GitHub\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\Lab7\Lab1\obj_loader.cpp(378,16): warning C4244:  'return': conversion from 'double' to 'float', possible loss of data
+  stb_image.c
+  Lab1.vcxproj -> C:\Users\micha\Documents\GitHub\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\Lab7\Debug\Lab1.exe
